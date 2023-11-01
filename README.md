@@ -49,7 +49,7 @@ Follow these steps to run the code and obtain market basket insights:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/samyuktha343/market-basket-insights.git
+   git clone https://github.com/samyuktha343/AI_Phase1.git
    ```
 
 2. **Navigate to the Project Directory:**
